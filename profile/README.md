@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://digitalumuganda.com">
-    <img src="../images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="./images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 <div>
 
